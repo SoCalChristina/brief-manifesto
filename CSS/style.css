@@ -1,0 +1,162 @@
+
+body {
+	background-color: #ccf2ff;
+	margin:auto;
+	width:680px;
+}
+
+
+#container:after {
+   content: ".";
+   clear: both;
+   display: block;
+   height: 0;
+   visibility: hidden;
+   overflow: hidden;
+   }
+
+.left{
+	clear: both;
+	float:left;
+	text-align:justify;
+    -moz-text-align-last: justify;
+    text-align-last: justify;
+	text-justify:distribute;
+	width: 327px;
+}
+.right{
+	clear: right;
+	float:left;
+	text-align:justify;
+    -moz-text-align-last: justify;
+    text-align-last: justify;
+	text-justify:distribute;
+	width: 327px;
+}
+.full{
+clear: both;
+float:left;
+text-align:justify;
+-moz-text-align-last: justify;
+text-align-last: justify;
+text-justify:distribute;
+width:672px;
+}
+
+#your {
+		line-height: 33px;
+		margin-right:20px;
+		padding-top: 35px;
+}
+
+
+#love{
+	margin-right:5px;
+	margin-top:-10px;
+	line-height: 35px;
+}
+
+#simple {
+	width:328px;
+	margin-right:20px;
+	line-height: 35px;
+}
+
+#beautiful {
+	line-height: 20px;
+	margin-top:5px
+}
+
+#travel{
+	margin-right:20px;
+}
+
+#find{
+	line-height: 20px;
+	margin-top: 10px;
+}
+
+
+#short{
+	margin-right:10px;
+	line-height: 55px;
+}
+
+#passion{
+	line-height: 40px;
+	word-spacing:.5px;
+}
+
+.emphasis-1 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 45px;
+	letter-spacing: .4px;
+}
+.emphasis-2 {
+	font-family: 'Arvo', serif;
+	text-transform: uppercase;
+	font-size: 135px;
+	margin-right:-35px;
+}
+
+.emphasis-3	{
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 30px;
+}
+.emphasis-4 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size:35px;
+}
+.emphasis-5 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size:28px;
+}
+.emphasis-6 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size:24px;
+
+}
+.emphasis-7 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 40px;
+
+}
+.emphasis-8 {
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.emphasis-9{
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 75px;
+
+}
+.emphasis-10{
+	font-family:'Slabo 27px', serif;
+	text-transform: uppercase;
+	font-size: 55px;
+	font-weignt:bold;
+}
+.emphasis-11{
+	letter-spacing: 16px;
+	word-spacing: 5px;
+	display: inline-block;
+	transform: scaleY(1.1);
+}
+.emphasis-12{
+	letter-spacing: 18px;
+	word-spacing: 5px;
+	display: inline-block;
+	transform: scaleY(1.2);
+	vertical-align:
+}
+.emphasis-often{
+	letter-spacing: 10px;
+}
